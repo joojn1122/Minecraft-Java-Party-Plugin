@@ -1,0 +1,9 @@
+name: Party
+version: 1
+main: com.joojn.party.Main
+api-version: 1.8
+commands:
+  party:
+    aliases: [p]
+  pgetdown:
+    usage: /pgetdown
